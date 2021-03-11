@@ -1,0 +1,118 @@
+#title{
+background-color: #98af59;
+}
+
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+h1{
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 3.5em;
+    font-weight: bold;
+    line-height: 1.5;
+    padding-top: 50px;
+    color: #fff;
+}
+
+h2{
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #fff ;
+}
+
+h3{
+    font-family: 'Noto Serif', serif;
+    font-size: 30px;
+  
+    line-height: 1.5;
+    color: #000 ;  
+}
+.navbar-brand{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+    line-height: 1;
+    color: #32e0c4;
+    
+}
+
+
+.nav-item{
+    padding: 0 18px;
+    
+}
+
+.nav-link {
+    font-family: 'Akaya Telivigala', cursive;
+    font-size: 20px;
+    line-height: 1;
+    color: #32e0c4;
+}
+
+
+.btn{
+    margin: 10px;
+    margin-top: 30px;
+}
+
+
+.title-img{
+    width: 80%;
+    margin: 20px 15px;
+    padding-top: 50px;
+}
+
+
+/* Feature */
+
+#features{
+    padding: 7% 15%;
+    
+}
+
+.feature-box{
+    text-align: center;
+}
+
+.icon{
+    color:#98af59 ;
+    margin-bottom: 20px;
+
+}
+.icon:hover{
+    color:#aec474 ;
+}
+
+/* testemonial */
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #98af59 ;
+}
+
+.carousel-img{
+    width: 400px;
+    height: 400px;
+    padding-top: 50px;
+    border-radius: 50%;
+}
+
+
+/* cta */
+#cta{
+    text-align: center;
+    padding:80px 20px;
+}
+
+
+
+/* footer */
+#footer{
+    background-color: #98af59;
+    text-align: center;
+    color: #fff;
+}
